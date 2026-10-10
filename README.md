@@ -4,7 +4,7 @@ Official downloads for the OptiCore apps. **This repository has no source code**
 
 | App | What it is | Download |
 |---|---|---|
-| **OptiCore** | Windows game optimizer | [opticore.pages.dev/opticore.html](https://opticore.pages.dev/opticore.html) (updates itself) |
+| **OptiCore** | Windows game optimizer | [opticorehq.com/opticore](https://opticorehq.com/opticore.html) (updates itself) |
 | **OptiDesk** | Keyboard, mouse, mic and controller in one app | [Releases](../../releases) · coming soon |
 | **OptiDetect** | Transparent FiveM PC check | [Releases](../../releases) · coming soon |
 
@@ -16,8 +16,8 @@ Every release lists the **SHA-256** of each file. To check yours, run this in Po
 Get-FileHash .\the-file.exe
 ```
 
-Windows may warn that an app is from an unknown publisher, because the apps aren't code-signed yet. Click **More info → Run anyway**, but only for files downloaded from this page or opticore.pages.dev.
+Windows may warn that an app is from an unknown publisher, because the apps aren't code-signed yet. Click **More info → Run anyway**, but only for files downloaded from this page or opticorehq.com.
 
 ## Help
 
-Discord: [discord.gg/fJRdMAJX4K](https://discord.gg/fJRdMAJX4K) · website: [opticore.pages.dev](https://opticore.pages.dev)
+Discord: [discord.opticorehq.com](https://discord.opticorehq.com) · website: [opticorehq.com](https://opticorehq.com) · support: support@opticorehq.com
