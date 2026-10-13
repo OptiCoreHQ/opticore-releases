@@ -6,7 +6,7 @@ Official downloads for the OptiCore apps. **This repository has no source code**
 |---|---|---|
 | **OptiCore** | Windows game optimizer | [opticorehq.com/opticore](https://opticorehq.com/opticore.html) (updates itself) |
 | **OptiDesk** | Keyboard, mouse, mic and controller in one app | [Releases](../../releases) · coming soon |
-| **OptiDetect** | Transparent FiveM PC check | [Releases](../../releases) · coming soon |
+| **OptiDetect** | Transparent FiveM PC check | [detect.opticorehq.com](https://detect.opticorehq.com) (players get the scanner from their check link) |
 
 ## Check your download
 
